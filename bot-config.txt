@@ -1,0 +1,6 @@
+Member=Karinnegan
+Password=45SA4DW2QD1WQ1dsa1d165561WQD561231SA
+Sunucu_id=
+Kanal_id=
+KontrolEdilecekDurum=
+TOKEN=
